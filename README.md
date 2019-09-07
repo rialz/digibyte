@@ -1,13 +1,13 @@
-What is DigiByte?
+What is Rialz?
 ----------------
 
-DigiByte (DGB) is a rapidly growing decentralized, global blockchain that was founded in early 2014 with a focus on cyber security, payments & secure communications technologies.
+Rialz is a fork of DigiByte Rialz is a rapidly growing decentralized, global blockchain with a focus on cyber payments managed by a democratic government.
 
-For more information, as well as an immediately useable, binary version of the DigiByte Core software, see https://digibyte.io
+For more information, as well as an immediately useable, binary version of the DigiByte Core software, see https://rialz.com 
 
-DigiByte FAQ
+Rialz FAQ
 -------------
-Launch Date: January 10th, 2014
+Launch Date: November 1, 2019 
 
 Blockchain Type: Public, Decentralized, UTXO based, Multi-Algorithm
 
@@ -17,7 +17,7 @@ Genesis Block Hash: "USA Today: 10/Jan/2014, Target: Data stolen from up to 110M
 
 Max Total Supply: 21 Billion DigiBytes in 21 Years (2035)
 
-Current Supply: 11,692,747,373 DGB (April 2019)
+Current Supply: 11,692,747,37 3 DGB (April 2019)
 
 Block Reward Reduction: 1% Monthly
 
